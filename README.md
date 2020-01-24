@@ -1,13 +1,13 @@
-# robosys2
-## Demo Video
-https://www.youtube.com/watch?v=LMpq2qJzS_8
-## Dependency 
-python
-## Usage
-・ノードの実行
-  rosrun mypkg count.py
-・twice.pyの実行
-  rosrun mypkg twice.py
+# robosys2 
+## Demo Video 
+https://www.youtube.com/watch?v=LMpq2qJzS_8 
+## Dependency  
+python 
+## Usage 
+・ノードの実行  
+  rosrun mypkg count.py  
+・twice.pyの実行 
+  rosrun mypkg twice.py 
   二倍になった数字が表示される
 ・実行
   rostopic echo /twice
