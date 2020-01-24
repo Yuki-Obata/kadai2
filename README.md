@@ -9,7 +9,7 @@ python
 
 
 ## License  
-This software is released under the License GENERAL PUBLIC LICENSE, see LICENSE.
+This software is released under the License BSD 3-Clause License, see LICENSE.
 ## References
 https://github.com/ryuichiueda/robosys2019.git
 
